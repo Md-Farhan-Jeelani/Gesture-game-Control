@@ -8,3 +8,10 @@ The screen is logically divided into 4 parts. When a particular color (in my cas
 I'm using a WindowsOS and Spyder to run my project. This code will be compatable with any game on WindowsOS. If you are using MacOS then you might have modify the directkeys.py file.
 
 Follow the steps in requirements file to get the setup ready, then you could run the color.py file and directkeys.py file in order to set them up and make sure they're working correctly. Then you could run gameControll.py finally to get the output window.
+
+For running this project you'll require the following setup:
+1. Anaconda with a python 3.7 environment 
+2. Install the openCV library 
+3. Install the imutils library. You'll have to do a conda install for that
+
+Doing this shall get your setup ready!
